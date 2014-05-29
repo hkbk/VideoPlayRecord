@@ -1,0 +1,2 @@
+#define whitColor [UIColor whiteColor]
+#define videoNslog NSlog(@"%@== %d", temp)
