@@ -37,6 +37,7 @@
 }
 
 - (IBAction)recordVideo:(id)sender {
+    //hungnt
     
 }
 @end
