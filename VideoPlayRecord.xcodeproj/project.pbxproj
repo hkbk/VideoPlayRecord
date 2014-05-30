@@ -74,6 +74,7 @@
 		840D1D7C1935D77200BAD434 /* RecordVideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecordVideoViewController.m; sourceTree = "<group>"; };
 		840D1D7E1935D78100BAD434 /* MergeVideoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MergeVideoViewController.h; sourceTree = "<group>"; };
 		840D1D7F1935D78100BAD434 /* MergeVideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MergeVideoViewController.m; sourceTree = "<group>"; };
+		84136A7A1938249B0058002F /* Define.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Define.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +110,7 @@
 		840D1D2B1935D11000BAD434 = {
 			isa = PBXGroup;
 			children = (
+				84136A7A1938249B0058002F /* Define.h */,
 				840D1D3D1935D11000BAD434 /* VideoPlayRecord */,
 				840D1D5C1935D11000BAD434 /* VideoPlayRecordTests */,
 				840D1D361935D11000BAD434 /* Frameworks */,
@@ -502,6 +504,7 @@
 				840D1D681935D11000BAD434 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		840D1D691935D11000BAD434 /* Build configuration list for PBXNativeTarget "VideoPlayRecordTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +513,7 @@
 				840D1D6B1935D11000BAD434 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
