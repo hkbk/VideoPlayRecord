@@ -20,7 +20,7 @@
     if (self) {
         // Custom initialization
     }
-    
+    NSLog(@"hhahaa");
     return self;
 }
 
