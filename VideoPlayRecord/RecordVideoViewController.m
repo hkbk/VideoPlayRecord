@@ -39,5 +39,6 @@
 - (IBAction)recordVideo:(id)sender {
     //hungnt
     
+    NSLog(@"record video");
 }
 @end
